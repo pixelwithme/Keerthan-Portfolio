@@ -3,26 +3,8 @@
 
 ![Project Logo](03.jpg)
 
-## Table of Contents
-- [About](#about)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-- [Acknowledgments](#acknowledgments)
-
 ## About
-A brief description of what your project does, the problem it solves, and any important features or limitations.
+Innovative professional with 3 + years of experience in developing marketing strategies and campaigns across various industries. Skilled in enhancing brand awareness and promoting products digitally. Passionate about photography and content creation, capturing and crafting compelling visual stories that resonate.
 
-## Getting Started
-Instructions to get a copy of the project up and running on your local machine for development and testing purposes.
 
-### Prerequisites
-List of things you need to install the software and how to install them.
-```sh
-example:
-brew install example
 
