@@ -1,7 +1,7 @@
 # Keerthan-Portfolio
 # Project Name
 
-![Project Logo](https://www.linkedin.com/in/keerthan-kamath/overlay/background-image/)
+![Project Logo](03.jpg)
 
 ## Table of Contents
 - [About](#about)
